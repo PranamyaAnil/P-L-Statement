@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _https://github.com/PranamyaAnil/P-L-Statement/blob/main/Customer%20Performance%20Report.pdf
+    **1.** Create a _[Customer performance Report]( https://github.com/PranamyaAnil/P-L-Statement/blob/main/Customer%20Performance%20Report.pdf)
    
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
